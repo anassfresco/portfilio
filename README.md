@@ -6,7 +6,7 @@ Later on add some javascript for animation and designing.
 visit the website [here.](https://anassfresco.github.io/portfilio/)
 
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/53833570/87217363-f9e6ff00-c365-11ea-9e1a-4d017964f2b4.gif)
+![ezgif com-optimize](https://github.com/anassfresco/portfilio/blob/main/Image/anas%20portfilio%20et%201%20page%20suppl%C3%A9mentaire%20-%20Travail%20%E2%80%93%20Microsoft_%20Edge%202021-07-13%2020-48-57.gif)
 
 ## Sections:
 💥 About me\
