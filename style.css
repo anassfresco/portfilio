@@ -1145,3 +1145,13 @@ nav {
 .row {
     margin-top: 80px;
 }
+@media only screen and (max-width: 950px) {
+    .ml4 {
+        font-size: 20PX;
+        margin-bottom: 100px;
+    }
+    .home__blob {
+        width: 300px;
+        fill: #A16AAD;
+    }
+}
