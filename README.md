@@ -23,8 +23,8 @@ visit the website [here.](https://anassfresco.github.io/portfilio/)
 
 ## Illustration and Images
 - [Undraw](https://undraw.co/)
-##icones 
--[iconescout](https://iconscout.com/unicons)
+
+
 
 ## For the Future
 
