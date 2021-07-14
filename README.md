@@ -1,8 +1,8 @@
 # Interactive-Portfolio 
 
 ## A Resposive and attractive portfolio for Developers 🔥
-A clean, beautiful and responsive portfolio templete with using only HTML and css.
-Later on add some javascript for animation and designing.
+A clean, beautiful and responsive portfolio templete with using  HTML and css and js.
+
 visit the website [here.](https://anassfresco.github.io/portfilio/)
 
 
