@@ -32,7 +32,7 @@ visit the website [here.](https://anassfresco.github.io/portfilio/)
 If you can help us with these.Please don't hesitate to open a pull request.
 - Add a page loader
 - Add some Animation
-- Enable Dark mode
+- Enable white mode
 - Add some more Section
 
 
