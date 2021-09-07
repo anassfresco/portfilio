@@ -11,7 +11,7 @@ visit the website [here.](https://anassfresco.github.io/portfilio/)
 ## Sections:
 💥 About me\
 💥 Education\
-💥 Cretification\
+💥 Cetification\
 💥 Skills\
 💥 Projects\
 💥 Contact me
